@@ -539,7 +539,7 @@ a {
 }
 
 .sliderSml::before {
-    content: "Spectate";
+    content: "Moxa";
     font-size: 20px;
     color: white;
     width: max-content;
@@ -1276,7 +1276,7 @@ input[type=color] {
 }
 
 #healthValue {
-    font-size: 64px !important;
+    font-size: 20px !important;
 	text-shadow: 2px 2px 4px #000;
 }
 
@@ -1320,7 +1320,7 @@ input[type=color] {
 }
 
 #ammoVal {
-    font-size: 64px;
+    font-size: 20px;
     color: var(--accent);
     text-shadow: 2px 2px 0px #000 !important;
 }
@@ -1341,7 +1341,7 @@ input[type=color] {
 /*Weapon Display*/
 
 #weapDisplay {
-    bottom: 30px;
+    bottom: 20px;
 }
 
 .weapItem {
@@ -1359,7 +1359,7 @@ input[type=color] {
 
 .weapIcon[style*="1"] {
     opacity: 1 !important;
-    height: 70px;
+    height: 20px;
 }
 
 #weapIconMel {
@@ -1410,7 +1410,7 @@ input[type=color] {
     background-color: transparent;
     color: #fff;
     text-shadow: 2px 2px 4px #000;
-    font-size: 32px;
+    font-size: 20px;
 }
 
 #killsIcon, #deathsIcon, #streakIcon, #kdIcon {
