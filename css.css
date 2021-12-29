@@ -1269,7 +1269,7 @@ input[type=color] {
     background-color: transparent;
     padding: 0 !important;
     margin: 0 !important;
-    bottom: 20%;
+    bottom: 10%;
     right: 62.5%;
     transform: translateX(50%);
     position: fixed;
@@ -1312,7 +1312,7 @@ input[type=color] {
     padding-left: 0;
     padding-right: 0 !important;
     position: fixed;
-    bottom:20%;
+    bottom:10%;
     left: 62.5%;
     justify-content: center;
     text-align: center;
@@ -1383,7 +1383,7 @@ input[type=color] {
 #timerDisplay {
     position: fixed;
     left: 50%;
-    bottom: 15%;
+    bottom: 5%;
     transform: translateX(-50%);
     background-color: transparent;
 }
@@ -1401,7 +1401,7 @@ input[type=color] {
 #streakCount {
     position: fixed;
     left: 50%;
-    bottom: 10%;
+    bottom: 5%;
     background-color: transparent;
     transform: translate(-50%);
 }
