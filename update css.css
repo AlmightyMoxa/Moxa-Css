@@ -1269,7 +1269,7 @@ input[type=color] {
     background-color: transparent;
     padding: 0 !important;
     margin: 0 !important;
-    bottom: 20%;
+    bottom: 40%;
     right: 62.5%;
     transform: translateX(50%);
     position: fixed;
