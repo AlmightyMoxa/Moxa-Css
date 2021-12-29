@@ -16,6 +16,12 @@
     text-transform: lowercase;
 }
 
+}
+
+.twitch {
+    text-shadow: -1px -1px 0 #00B6FF,1px -1px 0 #00B6FF,-1px 1px 0 #00B6FF,1px 1px 0 #00B6FF,-2px -2px 0 #00B6FF,2px -2px 0 #00B6FF,-2px 2px 0 #00B6FF,2px 2px 0 #00B6FF
+}
+
 .menuItemTitle {
 	color: var(--accent) !important;
 }
