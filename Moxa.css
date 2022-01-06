@@ -1290,7 +1290,7 @@ input:checked+.optCheck {
 	background-color: transparent;
 	border-radius: 0;
 	position: fixed;
-	left: calc(50% - 120px);
+	left: calc(50% - 80px);
 	bottom: 9px;
 	padding: 0!important;
 	margin: 0!important
@@ -1333,7 +1333,7 @@ input:checked+.optCheck {
 #ammoVal {
 	position: fixed;
 	font-size: var(--hp-size);
-	right: calc(50% - 120px);
+	right: calc(50% - 80px);
 	bottom: 1%;
 	color: var(--ammo-color);
 	font-family: hpammo;
@@ -1350,7 +1350,7 @@ input:checked+.optCheck {
 }
 
 #reloadMsg {
-	bottom: 100px;
+	bottom: 50px;
 	background: transparent !important;
 }
 
