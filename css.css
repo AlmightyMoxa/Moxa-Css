@@ -1290,7 +1290,7 @@ input:checked+.optCheck {
 	background-color: transparent;
 	border-radius: 0;
 	position: fixed;
-	left: calc(50% - 120px);
+	left: calc(50% - 250px);
 	bottom: 9px;
 	padding: 0!important;
 	margin: 0!important
@@ -1320,8 +1320,8 @@ input:checked+.optCheck {
 	background-color: transparent;
 	background-image: url(https://dummyimage.com/1x1/ffffff/ffffff.png);
 	transform: none;
-	width: 50px;
-	height: 4px;
+	width: 25px;
+	height: 2px;
 	top: calc(50% + 35px);
 	left: calc(50% - 25px);
 	padding: 0;
@@ -1333,7 +1333,7 @@ input:checked+.optCheck {
 #ammoVal {
 	position: fixed;
 	font-size: var(--hp-size);
-	right: calc(50% - 120px);
+	right: calc(50% - 250px);
 	bottom: 1%;
 	color: var(--ammo-color);
 	font-family: hpammo;
