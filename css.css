@@ -1299,7 +1299,7 @@ input:checked+.optCheck {
 #healthValue {
 	color: var(--health-color);
 	font-family: hpammo;
-	font-size: var(--hp-size);
+	font-size: 20px;
 	text-shadow: 2px 2px 3px rgba(30, 30, 30, .5);
 }
 
@@ -1320,8 +1320,8 @@ input:checked+.optCheck {
 	background-color: transparent;
 	background-image: url(https://dummyimage.com/1x1/ffffff/ffffff.png);
 	transform: none;
-	width: 25px;
-	height: 2px;
+	width: 50px;
+	height: 4px;
 	top: calc(50% + 35px);
 	left: calc(50% - 25px);
 	padding: 0;
@@ -1332,7 +1332,7 @@ input:checked+.optCheck {
 
 #ammoVal {
 	position: fixed;
-	font-size: var(--hp-size);
+	font-size: 20px;
 	right: calc(50% - 250px);
 	bottom: 1%;
 	color: var(--ammo-color);
